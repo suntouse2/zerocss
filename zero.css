@@ -68,8 +68,8 @@ a:visited {
 	cursor: pointer;
 	text-decoration: none;
 }
-li,
-span,
+li > a,
+span > a,
 p > a,
 h1 > a,
 h2 > a,
